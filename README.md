@@ -1,5 +1,4 @@
-
-# ![Bienvenida](https://i.imgur.com/AyJHwgx.png)  
+# ¡Hola! 👋  
 
 ¡Hola! Soy Daylé, una desarrolladora apasionada por el desarrollo web. 🚀 Aquí encontrarás mis proyectos, experimentos y un poco de todo lo que me encanta crear.
 
