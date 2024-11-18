@@ -1,24 +1,30 @@
-# 👋 ¡Hola! Soy Daylé García
 
-Bienvenido a mi perfil de GitHub. Soy un entusiasta del desarrollo de software con una gran pasión por la tecnología, los videojuegos y la creación de soluciones innovadoras. 
+# ![Bienvenida](https://i.imgur.com/AyJHwgx.png)  
 
----
+¡Hola! Soy Daylé, una desarrolladora apasionada por el desarrollo web. 🚀 Aquí encontrarás mis proyectos, experimentos y un poco de todo lo que me encanta crear.
 
-## 👩‍💻 Sobre mí
+🌟 **Explora mi trabajo completo en mi portafolio:**
 
-- 🧑‍🎓 **Estudiante de Ingeniería en Software** en la Universidad Técnica de Ambato
-- 🎮 **Amante de los videojuegos** 
-- 💡 **Edad:** 20 años
-- 🚫 No soy fan de las **Metodologías Ágiles** 
+[🌐 **Visita mi portafolio aquí**]([https://dageus15.github.io/]) 
 
 ---
 
-## 🎯 Un poco más...
-
-Actualmente estoy inmersa en el mundo del desarrollo, donde siempre busco mejorar mis habilidades y aprender nuevas tecnologías. Me gusta experimentar con proyectos y descubrir las mejores prácticas en ingeniería de software. 
+💻 **Sobre mí:**
+- 🌱 Actualmente aprendiendo Node y React.
+- 🎯 Enfocada en completar mi carrera universitaria.
+- 💬 ¡Si tienes preguntas o quieres colaborar, no dudes en contactarme!
 
 ---
 
-Gracias por visitar mi perfil. ¡Estoy abierta a colaborar en proyectos interesantes y siempre dispuesta a aprender!
+✨ **Mis herramientas favoritas:**
+- Java🛠️
+- Node🌐
+- React 📊
+
+---
+
+📩 **Contáctame:**  
+[Email](garciadayle2004gmail.com)
+
 
 
